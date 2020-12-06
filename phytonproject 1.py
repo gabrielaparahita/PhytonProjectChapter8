@@ -1,0 +1,13 @@
+print ('Masukkan bil bulat : ')
+bil1 = int(input())
+print ('Masukkan bil bulat : ')
+bil2 = int(input())
+print ('Masukkan bil bulat : ')
+bil3 = int(input())
+print ('Masukkan bil bulat : ')
+bil4 = int(input())
+print ('Masukkan bil bulat : ')
+bil5 = int(input())
+bila = [bil1,bil2,bil3,bil4,bil5]
+bila.sort()
+print(bila)
